@@ -13,3 +13,9 @@ dogs = 2
 candy = 1.50
 size = 7.5
 weight = 105.5
+
+#booleans
+
+happy = false
+sad = true
+cat = false 
