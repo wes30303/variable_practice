@@ -1,7 +1,7 @@
 #string
 
-email = "wesleywes42@gmail.com"
-dogs = "dogs are amazing"
+email = "happy101@gmail.com"
+dogs = "dogs are bad"
 
 #intiger
 age = 30
@@ -18,4 +18,4 @@ weight = 105.5
 
 happy = false
 sad = true
-cat = false 
+cat = false
